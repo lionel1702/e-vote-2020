@@ -96,3 +96,5 @@ npm start
 ## Motivation
 
 This Decentralised application has been developed as a submission for Microsoft CodeFunDo++ 2019.
+
+detect changes
